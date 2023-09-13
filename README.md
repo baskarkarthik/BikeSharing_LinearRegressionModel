@@ -22,4 +22,4 @@ This case study has detailed analysis of Bike sharing. We graphically represent 
 
 ## Contact
 Developed by
-    Karthik R [@github.com/baskarkarthik]
+    - Karthik R [@github.com/baskarkarthik]
